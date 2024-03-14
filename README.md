@@ -1,16 +1,6 @@
-# documentation-template
+The MIT License (MIT)
 
-template repo for semester documentation
-
-## Todo:
-
-- [ ] Add a short description of this repos content.
-- [ ] Make sure to add a license to your project. https://choosealicense.com/
-- [ ] Make sure to publish your project via Netlify.com
-- [ ] Make sure to add your images to the `assets/images` folder and link them in your documentation.
-MIT License
-
-Copyright (c) [year] [fullname]
+Copyright (c) 2019 David Sherret
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -29,6 +19,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-## Hints
 
-- Don't reinvent the wheel. Use existing css libraries. Check out this list of classless css libraries: https://github.com/dbohdan/classless-css
+This is Phil König's website. This documents the first semester in the subject of digital communication and its projects.
+All images and texts were created within this seminar.
