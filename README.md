@@ -22,3 +22,6 @@ SOFTWARE.
 
 This is Phil König's website. This documents the first semester in the subject of digital communication and its projects.
 All images and texts were created within this seminar.
+
+Website:
+https://philsdokumentation.netlify.app/
